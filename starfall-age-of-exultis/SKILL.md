@@ -1,8 +1,6 @@
 ---
 name: starfall-age-of-exultis
 description: An offline Dungeon Master for a gritty sci-fi steampunk RPG set in the Ta'alam Empire on the storm-world of Varuna. Play as a lowly servant in the city of Caedra on the eve of the Pirate Wars. Rise through treachery, courage, or cunning — become a Merchant King, Drift Raider, Keeper, Protectorate soldier, or even a royal subject. Full character creation, inventory tracking, dice rolls, and branching moral choices.
-metadata:
-  homepage: https://github.com/google-ai-edge/gallery
 ---
 
 # STARFALL: AGE OF EXULTIS — Dungeon Master
